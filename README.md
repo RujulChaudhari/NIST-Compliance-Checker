@@ -38,7 +38,7 @@ Each of these functions is broken down into categories and subcategories, which 
 ## 🚀 How to Use the NIST Compliance Checker
 
 1. **Visit the Tool**: Click on the link below to access the compliance checker and begin assessing your organization’s cybersecurity posture.
-    - [NIST Cybersecurity Framework Compliance Checker](https://YourUsername.github.io/NIST-Compliance-Checker/)
+    - [NIST Cybersecurity Framework Compliance Checker](https://rujulchaudhari.github.io/NIST-Compliance-Checker/)
 
 2. **Answer the Questions**: Select "Yes" or "No" for each question.
   
